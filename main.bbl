@@ -1,0 +1,39 @@
+\begin{thebibliography}{1}
+
+\bibitem{Barabasi99emergenceScaling}
+Albert-Laszlo Barabasi and Reka Albert.
+\newblock Emergence of scaling in random networks.
+\newblock {\em Science}, 286(5439):509--512, 1999.
+
+\bibitem{DBLP:journals/corr/abs-1303-4711}
+Dongxiao He, Jie Liu, Bo~Yang, Yuxiao Huang, Dayou Liu, and Di~Jin.
+\newblock An ant-based algorithm with local optimization for community
+  detection in large-scale networks.
+\newblock {\em CoRR}, abs/1303.4711, 2013.
+
+\bibitem{Jin:2011:ACO:2022850.2022861}
+Di~Jin, Dayou Liu, Bo~Yang, Carlos Baquero, and Dongxiao He.
+\newblock Ant colony optimization with markov random walk for community
+  detection in graphs.
+\newblock In {\em Proceedings of the 15th Pacific-Asia Conference on Advances
+  in Knowledge Discovery and Data Mining - Volume Part II}, PAKDD'11, pages
+  123--134, Berlin, Heidelberg, 2011. Springer-Verlag.
+
+\bibitem{milgram67smallworld}
+Stanley Milgram.
+\newblock {The Small World Problem}.
+\newblock {\em Psychology Today}, 2:60--67, 1967.
+
+\bibitem{5586496}
+S.~Sadi, S.~Öğüdücü, and A.S. Uyar.
+\newblock An efficient community detection method using parallel clique-finding
+  ants.
+\newblock In {\em Evolutionary Computation (CEC), 2010 IEEE Congress on}, pages
+  1--7, 2010.
+
+\bibitem{Watts-Colective-1998}
+D.J. Watts and S.H. Strogatz.
+\newblock Collective dynamics of 'small-world' networks.
+\newblock {\em Nature}, (393):440--442, 1998.
+
+\end{thebibliography}
