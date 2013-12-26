@@ -1,9 +1,11 @@
 \documentclass[12pt, letterpaper, oneside, openright]{book}
-\usepackage{amsmath}
+\usepackage{amsmath, amssymb}
 \usepackage{fancyhdr}
 \renewcommand*\footnoterule{}
 \renewcommand*{\thefootnote}{\fnsymbol{footnote}}
 \renewcommand\contentsname{Table of Contents}
+\renewcommand\bibname{References}
+\usepackage[nottoc,numbib]{tocbibind} % include references in TOC
 
 \usepackage{etoolbox}% http://ctan.org/pkg/etoolbox
 \makeatletter
@@ -36,6 +38,7 @@
 
 \mainmatter
 \include{chap1}
+\include{chap2}
 
 \backmatter
 \bibliographystyle{plain}

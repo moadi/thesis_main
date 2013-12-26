@@ -1,9 +1,30 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{Barabasi99emergenceScaling}
 Albert-Laszlo Barabasi and Reka Albert.
 \newblock Emergence of scaling in random networks.
 \newblock {\em Science}, 286(5439):509--512, 1999.
+
+\bibitem{blondel2008fuc}
+V.D. Blondel, J.L. Guillaume, R.~Lambiotte, and E.L.J.S. Mech.
+\newblock {Fast unfolding of communities in large networks}.
+\newblock {\em J. Stat. Mech}, page P10008, 2008.
+
+\bibitem{Clauset2004}
+Aaron Clauset, M.~E.~J. Newman, , and Cristopher Moore.
+\newblock Finding community structure in very large networks.
+\newblock {\em Physical Review E}, pages 1-- 6, 2004.
+
+\bibitem{Fortunato201075}
+Santo Fortunato.
+\newblock Community detection in graphs.
+\newblock {\em Physics Reports}, 486(3–5):75 -- 174, 2010.
+
+\bibitem{Girvan11062002}
+M.~Girvan and M.~E.~J. Newman.
+\newblock Community structure in social and biological networks.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  99(12):7821--7826, 2002.
 
 \bibitem{DBLP:journals/corr/abs-1303-4711}
 Dongxiao He, Jie Liu, Bo~Yang, Yuxiao Huang, Dayou Liu, and Di~Jin.
@@ -24,12 +45,34 @@ Stanley Milgram.
 \newblock {The Small World Problem}.
 \newblock {\em Psychology Today}, 2:60--67, 1967.
 
+\bibitem{PhysRevE.69.026113}
+M.~E.~J. Newman and M.~Girvan.
+\newblock Finding and evaluating community structure in networks.
+\newblock {\em Phys. Rev. E}, 69(2):026113, February 2004.
+
+\bibitem{newman03fast}
+M.E.J. Newman.
+\newblock Fast algorithm for detecting community structure in networks.
+\newblock {\em Physical Review E}, 69, September 2003.
+
+\bibitem{Radicchi02032004}
+Filippo Radicchi, Claudio Castellano, Federico Cecconi, Vittorio Loreto, and
+  Domenico Parisi.
+\newblock Defining and identifying communities in networks.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 101(9):2658--2663, 2004.
+
 \bibitem{5586496}
 S.~Sadi, S.~Öğüdücü, and A.S. Uyar.
 \newblock An efficient community detection method using parallel clique-finding
   ants.
 \newblock In {\em Evolutionary Computation (CEC), 2010 IEEE Congress on}, pages
   1--7, 2010.
+
+\bibitem{Wasserman-Social-1994}
+S.~Wasserman and K.~Faust.
+\newblock {\em Social Network Analysis: Methods and Applications}.
+\newblock Cambridge University Press, 1994.
 
 \bibitem{Watts-Colective-1998}
 D.J. Watts and S.H. Strogatz.

@@ -1,4 +1,12 @@
 \contentsline {chapter}{List of Figures}{v}
+\contentsline {chapter}{List of Figures}{v}
+\contentsline {chapter}{List of Tables}{vi}
 \contentsline {chapter}{List of Tables}{vi}
 \contentsline {chapter}{Acknowledgements}{vii}
 \contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {chapter}{\numberline {2}Preliminaries}{3}
+\contentsline {section}{\numberline {2.1}Problem Definition}{3}
+\contentsline {section}{\numberline {2.2}Previous Work}{4}
+\contentsline {subsection}{\numberline {2.2.1}Hierarchical Methods}{4}
+\contentsline {subsection}{\numberline {2.2.2}Modularity-based Methods}{5}
+\contentsline {chapter}{References}{7}
