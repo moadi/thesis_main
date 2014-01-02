@@ -1,14 +1,18 @@
 \contentsline {chapter}{List of Figures}{v}
-\contentsline {chapter}{List of Figures}{v}
-\contentsline {chapter}{List of Tables}{vi}
 \contentsline {chapter}{List of Tables}{vi}
 \contentsline {chapter}{Acknowledgements}{vii}
 \contentsline {chapter}{\numberline {1}Introduction}{1}
 \contentsline {chapter}{\numberline {2}Preliminaries}{3}
 \contentsline {section}{\numberline {2.1}Problem Definition}{3}
 \contentsline {section}{\numberline {2.2}Previous Work}{4}
-\contentsline {subsection}{\numberline {2.2.1}Hierarchical Methods}{4}
+\contentsline {subsection}{\numberline {2.2.1}Hierarchical Methods}{5}
 \contentsline {subsection}{\numberline {2.2.2}Modularity-based Methods}{5}
 \contentsline {subsection}{\numberline {2.2.3}Other Methods}{6}
 \contentsline {section}{\numberline {2.3}Ant Algorithms}{7}
-\contentsline {chapter}{References}{9}
+\contentsline {chapter}{\numberline {3}Ant-Based Community Detection}{10}
+\contentsline {section}{\numberline {3.1}Overview}{10}
+\contentsline {section}{\numberline {3.2}Initialization}{11}
+\contentsline {section}{\numberline {3.3}Exploration}{11}
+\contentsline {section}{\numberline {3.4}Construction}{15}
+\contentsline {section}{\numberline {3.5}Optimization Phase}{16}
+\contentsline {chapter}{References}{17}

@@ -17,6 +17,13 @@ Ulrik Brandes, Daniel Delling, Marco Gaertler, Robert G?rke, Martin Hoefer,
 \newblock {\em IEEE Transactions on Knowledge and Data Engineering},
   20(2):172--188, 2008.
 
+\bibitem{5910378}
+T.N. Bui, Xianghua Deng, and C.M. Zrncic.
+\newblock An improved ant-based algorithm for the degree-constrained minimum
+  spanning tree problem.
+\newblock {\em Evolutionary Computation, IEEE Transactions on}, 16(2):266--278,
+  2012.
+
 \bibitem{Clauset2004}
 Aaron Clauset, M.~E.~J. Newman, , and Cristopher Moore.
 \newblock Finding community structure in very large networks.

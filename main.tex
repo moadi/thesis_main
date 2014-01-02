@@ -1,5 +1,5 @@
 \documentclass[12pt, letterpaper, oneside, openright]{book}
-\usepackage{amsmath, amssymb}
+\usepackage{amsmath, amssymb, algorithm2e}
 \usepackage{fancyhdr}
 \renewcommand*\footnoterule{}
 \renewcommand*{\thefootnote}{\fnsymbol{footnote}}
@@ -28,19 +28,22 @@
 
 \tableofcontents
 
+%\addcontentsline{toc}{chapter}{\listfigurename}
 \listoffigures
-\addcontentsline{toc}{chapter}{\listfigurename}
 
+%\addcontentsline{toc}{chapter}{\listtablename}
 \listoftables
-\addcontentsline{toc}{chapter}{\listtablename}
 
 \include{thank}
 
 \mainmatter
+
 \include{chap1}
 \include{chap2}
+\include{chap3}
 
 \backmatter
+
 \bibliographystyle{plain}
 \bibliography{refs}
 
