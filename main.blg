@@ -8,6 +8,13 @@ A level-1 auxiliary file: chap3.aux
 A level-1 auxiliary file: chap4.aux
 The style file: plain.bst
 Database file #1: refs.bib
+You're missing a field name---line 288 of file refs.bib
+ :   
+ :   %month = {\#feb\#},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty title in Guimera04simulatedAnnealingNetworks
+Warning--empty year in Guimera04simulatedAnnealingNetworks
 Warning--can't use both author and editor fields in Wasserman-Social-1994
 Warning--there's a number but no volume in Watts-Colective-1998
-(There were 2 warnings)
+(There was 1 error message)

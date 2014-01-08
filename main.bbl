@@ -62,16 +62,26 @@ Santo Fortunato.
 \newblock Community detection in graphs.
 \newblock {\em Physics Reports}, 486(3–5):75 -- 174, 2010.
 
+\bibitem{Fortunato02012007}
+Santo Fortunato and Marc Barthélemy.
+\newblock Resolution limit in community detection.
+\newblock {\em Proceedings of the National Academy of Sciences}, 104(1):36--41,
+  2007.
+
 \bibitem{Girvan11062002}
 M.~Girvan and M.~E.~J. Newman.
 \newblock Community structure in social and biological networks.
 \newblock {\em Proceedings of the National Academy of Sciences},
   99(12):7821--7826, 2002.
 
-\bibitem{PhysRevE.70.025101}
-Roger Guimer\`a, Marta Sales-Pardo, and Lu\'\ is A.~Nunes Amaral.
-\newblock Modularity from fluctuations in random graphs and complex networks.
-\newblock {\em Phys. Rev. E}, 70:025101, Aug 2004.
+\bibitem{PhysRevE.81.046106}
+Benjamin~H. Good, Yves-Alexandre de~Montjoye, and Aaron Clauset.
+\newblock Performance of modularity maximization in practical contexts.
+\newblock {\em Phys. Rev. E}, 81:046106, Apr 2010.
+
+\bibitem{Guimera04simulatedAnnealingNetworks}
+Roger Guimera and Luis A.~Nunes Amaral.
+\newblock {\em Nature}.
 
 \bibitem{DBLP:journals/corr/abs-1303-4711}
 Dongxiao He, Jie Liu, Bo~Yang, Yuxiao Huang, Dayou Liu, and Di~Jin.
