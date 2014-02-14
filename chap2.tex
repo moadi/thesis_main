@@ -8,7 +8,7 @@ Communities are generally defined to be subsets of vertices which have a high de
 k_i(S) = k_i^{in}(S) + k_i^{out}(S)
 \end{align}
 
-where $k_i^{in}(S)$ is the number of connections to nodes in its subgraph $S$ and $k_i^{out}(S)$ is the number of connections to nodes outside $S$. The authors define a community in 2 ways. The subgraph $S$ is a community in the \textbf{strong sense} if:
+where $k_i^{in}(S)$ is the number of connections to nodes in its subgraph $S$ and $k_i^{out}(S)$ is the number of connections to nodes outside $S$. The authors define a community in two ways. The subgraph $S$ is a community in the \textbf{strong sense} if:
 
 \begin{align}
 k_i^{in}(S) > k_i^{out}(S), \forall i \in S
@@ -26,11 +26,11 @@ Even though networks can be directed, undirected, weighted or directed and weigh
 \noindent \textbf{Input: }An undirected, unweighted graph $G = (V, E)$ where $V$ represents a set of nodes or vertices and $E$ represents a set of edges or links. \\
 \noindent \textbf{Output: }A partition $C = \{C_1, \ldots, C_k\}$ of $G$ into $k$ communities where $C_i \cap C_j = \varnothing, i, j = {1, \ldots, k}, i \neq j$ and $C_i \subset V,  \forall i$. \\
 
-\indent It is worth mentioning that while communities can also be hierarchical in nature, small communities can be nested within larger ones, in this work we only concentrate on finding disjoint communities.
+\indent It is worth mentioning that while communities can also be hierarchical in nature i.e.\, small communities can be nested within larger ones or overlapping, where each node may belong to multiple communities, in this work we only concentrate on finding disjoint communities.
 
 \section{Previous Work}
 
-The seminal paper by Girvan and Newman~\cite{Girvan11062002}, resulted in a lot of research into the area of community detection, especially by physicists. As a result, these days there is a wide variety of community detection algorithms from fields like physics, computer science, statistics etc. Covering all of them is beyond the scope of this work, for a more thorough review one can refer the survey by Fortunato~\cite{Fortunato201075}.\\
+The seminal paper by Girvan and Newman~\cite{Girvan11062002}, resulted in a lot of research into the area of community detection from various disciplines. As a result, these days there is a wide variety of community detection algorithms from fields like physics, computer science, statistics etc. Covering all of them is beyond the scope of this work, for a more thorough review one can refer the survey by Fortunato~\cite{Fortunato201075}.\\
 \indent The methods for detecting communities can be broadly classified into hierarchical methods, modularity-based methods and other optimization methods involving statistics or dynamic processes on the graph.
 
 \subsection{Hierarchical Methods}
